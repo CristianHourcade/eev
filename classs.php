@@ -34,7 +34,6 @@ $presupuPremium->support_method("89");
 <body>
 <div class="container-fluid  mx-0">
 
-<div class="row cf">
 <div class="col-12">
 	<p class="text-white display-4 h1 mx-auto"><b>Presupuestos de nuestro servicio</b></p>
 	</div>
