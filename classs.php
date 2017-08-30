@@ -33,7 +33,7 @@ $presupuPremium->support_method("89");
 </head>
 <body>
 <div class="container-fluid  mx-0">
-
+<div class="col-md-4-bg-info"></div>
 <div class="col-12">
 	<p class="text-white display-4 h1 mx-auto"><b>Presupuestos de nuestro servicio</b></p>
 	</div>
